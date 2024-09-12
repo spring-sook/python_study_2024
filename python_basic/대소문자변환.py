@@ -12,7 +12,7 @@
 #     else:
 #         result += input_text[i]
 # print(result)
-tt
+
 ## 강사님 답
 rst = ""
 for e in input("입력 : "):
