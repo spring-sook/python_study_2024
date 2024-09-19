@@ -1,0 +1,94 @@
+수학 : 55
+영어 : 70
+국어 : 90
+과학 : 87
+
+## Programing
+
+---
+
+[JAVA](https://www.notion.so/JAVA-935622ba8e1941a5b91c02a2da51adf4?pvs=21)
+
+[JavaScript](https://www.notion.so/JavaScript-114182731f9f43de94054de59a11641d?pvs=21)
+
+[Python](https://www.notion.so/Python-8282a9baa80f45c2a88d47fb9aa951ce?pvs=21)
+
+[C](https://www.notion.so/C-102aa8049ef580159c5de4b88288464d?pvs=21)
+
+[C++](https://www.notion.so/C-6d429755d98941109b991a62e9ab1a21?pvs=21)
+
+## 알고리즘
+
+[알고리즘](https://www.notion.so/2ea949a258ea47e19a5262c418f5f29c?pvs=21)
+
+[알고리즘 문제 풀이](https://www.notion.so/8c3718a668de4f628e85620e545d9967?pvs=21)
+
+## Frontend
+
+---
+
+[HTML와 CSS](https://www.notion.so/HTML-CSS-968f0240d4fa4b929c63a066b95aae13?pvs=21)
+
+[React](https://www.notion.so/React-633bf3dc16624a84bf9801531e60e49d?pvs=21)
+
+[React Native](https://www.notion.so/React-Native-a894b3cd93e54566b049125449d41806?pvs=21)
+
+## Backend
+
+---
+
+[Spring Boot](https://www.notion.so/Spring-Boot-c3ba4aa812b347bf948fffc00be19dcc?pvs=21)
+
+[엘라스틱 스택](https://www.notion.so/7955814fc0a442f998b04ee7fcbde670?pvs=21)
+
+[Servlet과 JSP](https://www.notion.so/Servlet-JSP-6e2941bc64754cb2bdeb4bf877d57e2a?pvs=21)
+
+[Django](https://www.notion.so/Django-3d552cce93e14e6c8e20f876219f0855?pvs=21)
+
+## 인공지능과 빅데이터
+
+---
+
+[머신러닝(Machine Learning)](https://www.notion.so/Machine-Learning-72d80d0607b7447c9d67b5b21536d8fc?pvs=21)
+
+[딥러닝(deep learning)](https://www.notion.so/deep-learning-630c0ac31a32448e8fd57f5fcfab3b78?pvs=21)
+
+[인공지능을 위한 기초 수학](https://www.notion.so/927d4c92bdfc4f6e852ba9ca0f48677f?pvs=21)
+
+[데이터 분석](https://www.notion.so/0a2c4f7fbc4246d696a04d44288c2a75?pvs=21)
+
+## 형상 관리 및 배포
+
+---
+
+[Git과 버전 관리](https://www.notion.so/Git-6a0c7232f2ce4a7da2ed9f27215dd849?pvs=21)
+
+[AWS(Amazon Web Service)](https://www.notion.so/AWS-Amazon-Web-Service-a6b5d9aab7ac4639bf43e57ae27c1dd7?pvs=21)
+
+[리눅스 및 vi 에디터](https://www.notion.so/vi-e6bf81c9e01f4e4c8d187e3e0a016ad3?pvs=21)
+
+---
+
+[도커(Docker)](https://www.notion.so/Docker-bb9ba57c8ddb48fc8e8a559ae7c5800c?pvs=21)
+
+## 협업공간
+
+---
+
+[종료된 과정](https://www.notion.so/f1f5daae496647029f0c10c6fc5c25b5?pvs=21)
+
+[SBS 아카데미](https://www.notion.so/SBS-f3288045f9b042cda235ba29958ca79d?pvs=21)
+
+[**빅데이터 기반 금융 솔루션 UI 개발자 5회차** ](https://www.notion.so/UI-5-55f52b0fd9744390ba1b9889a01511f3?pvs=21)
+
+## 기타
+
+---
+
+[오리엔테이션 & 기본 개념](https://www.notion.so/4a23395b5d0844e58610c4f9d8b5b897?pvs=21)
+
+[참고 자료 링크](https://www.notion.so/70ecf6218ca142c08dfefa3e7f4e1324?pvs=21)
+
+---
+
+[소개 (**Introduce)**](https://www.notion.so/Introduce-406464b515b14aabad8f1c11ff26c966?pvs=21)
