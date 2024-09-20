@@ -48,8 +48,9 @@ if __name__ == "__main__":
                          "[5]최종 가격 계산(세금 포함)  [6]프로그램 종료 : ")
         try:
             if menu_num == "1":
-                item_price = list(input("제품과 가격 입력(제품과 가격사이에 띄어쓰기) : ").split())
-                my_order.add_item(Product(item_price[0], item_price[1]))
+                item_name = input("제품명을 입력하세요 : ")
+                item_price = input("제품 가격을 입력하세요 : ")
+                my_order.add_item(Product(item_name, item_price))
             elif menu_num == "2":
                 item = input("제거할 제품명 : ")
                 if my_order.remove_item(item):
