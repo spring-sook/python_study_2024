@@ -2,14 +2,14 @@ from decimal import Decimal
 
 class Product:  # 제품의 이름과 가격을 관리
     def __init__(self, name, price):
-        self.name = name  # 제품 이름
-        self.price = price  # 제품 가격
+        self.__name = name  # 제품 이름
+        self.__price = price  # 제품 가격
 
     def get_name(self):
-        return self.name  # 제품명 가져오기
+        return self.__name  # 제품명 가져오기
 
     def get_price(self):
-        return self.price  # 가격 가져오기
+        return self.__price  # 가격 가져오기
 
 class Order:  # 여러 개의 Product 객체를 관리하고, 주문의 총합과 판매세를 계산하는 역할
     def __init__(self):
