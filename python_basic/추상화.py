@@ -2,8 +2,9 @@
 # 부모 클래스 내에 이름만 선언되고 구현부가 없는 추상 메서드를 포함
 # 상속 받은 클래스는 반드시 추상 메서드에 대해서 구현 해줘야 함
 from abc import *  # 추상클래스를 사용하기 위해 import
+from abd import ABC
 
-class NetworkAdapter(metaclass=ABCMeta):
+class NetworkAdapter(metaclass=ABCMeta):  # 해당 클래스를 추상클래스로 만듦
     @abstractmethod
     def connect(self):
         pass
